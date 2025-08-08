@@ -8,7 +8,7 @@ Goal: Predict used-car selling_price from tabular features with clean preprocess
 
 Approach: One-Hot Encoding for categoricals, log1p for target and skewed numerics, compare Linear/Ridge/Lasso vs RandomForest, evaluate with KFold CV and test R²/MAE. Plotly used for EDA and residual checks.
 
-Open in Colab:
+Open in Colab: https://colab.research.google.com/github/SurajChouhan14/PriceMyRide-Used-Car-Price-Prediction/blob/main/PriceMyRide-Used-Car-Price-Predicti.ipynb
 
 Data and features
 
